@@ -1,4 +1,4 @@
-Version: 3.10.0
+git initVersion: 3.10.0
   - Updated Bootstrap to version 5.2.3
   - Updated all outdated third party vendor libraries to their latest versions
 
